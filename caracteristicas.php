@@ -22,12 +22,12 @@
         </span>
       </div>
       <ul class="nav-items">
-        <li><a href="index.html" class="nav-link">Inicio</a></li>
+        <li><a href="index.php" class="nav-link">Inicio</a></li>
         <li>
-          <a href="caracteristicas.html" class="nav-link">Características</a>
+          <a href="caracteristicas.php" class="nav-link">Características</a>
         </li>
-        <li><a href="nosotros.html" class="nav-link">Nosotros</a></li>
-        <li><a href="platos.html" class="nav-link">Platos</a></li>
+        <li><a href="nosotros.php" class="nav-link">Nosotros</a></li>
+        <li><a href="platos.php" class="nav-link">Platos</a></li>
       </ul>
     </nav>
     <!-- SECCION APARTE -->
@@ -38,7 +38,7 @@
       <div class="banner">
         <h3 class="banner-subtitle">Comida naturalmente saludable</h3>
         <h1 class="banner-title">Nuestroas Características</h1>
-        <a href="index.html" class="banner-btn">Inicio</a>
+        <a href="index.php" class="banner-btn">Inicio</a>
       </div>
     </header>
     <!-- seccion aparte -->
@@ -88,25 +88,6 @@
     </section>
 
     <!-- SECCION APARTE -->
-    <footer class="footer">
-      <div class="section-center">
-        <div class="social-icons">
-          <a href="#" class="social-icon">
-            <i class="fab fa-facebook"></i>
-          </a>
-          <a href="#" class="social-icon">
-            <i class="fab fa-twitter"></i>
-          </a>
-          <a href="#" class="social-icon">
-            <i class="fab fa-instagram"></i>
-          </a>
-        </div>
-        <p class="footer-text">
-          &copy;2021 <span class="text-primary">Mundo Natural</span>. Todos los
-          derechos reservados
-        </p>
-      </div>
-    </footer>
-    <script src="app.js"></script>
-  </body>
-</html>
+    <?php
+    require('templates/footer.php');
+  ?>

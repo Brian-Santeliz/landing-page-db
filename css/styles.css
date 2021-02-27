@@ -105,7 +105,7 @@ a {
 .header {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("../images/forest.jpg") center/cover no-repeat fixed;
+    url("../images/bg.jpg") center/cover no-repeat fixed;
   position: relative;
 }
 .banner {

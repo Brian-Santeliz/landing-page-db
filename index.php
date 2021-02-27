@@ -20,12 +20,12 @@
         </span>
       </div>
       <ul class="nav-items">
-        <li><a href="index.html" class="nav-link">Inicio</a></li>
+        <li><a href="index.php" class="nav-link">Inicio</a></li>
         <li>
-          <a href="caracteristicas.html" class="nav-link">Características</a>
+          <a href="caracteristicas.php" class="nav-link">Características</a>
         </li>
-        <li><a href="nosotros.html" class="nav-link">Nosotros</a></li>
-        <li><a href="platos.html" class="nav-link">Platos</a></li>
+        <li><a href="nosotros.php" class="nav-link">Nosotros</a></li>
+        <li><a href="platos.php" class="nav-link">Platos</a></li>
       </ul>
     </nav>
     <!-- seccion aparte -->
@@ -33,7 +33,7 @@
       <div class="banner">
         <h3 class="banner-subtitle">Comida naturalmente saludable</h3>
         <h1 class="banner-title">Restaurante Artesenal</h1>
-        <a href="caracteristicas.html" class="banner-btn">saber más</a>
+        <a href="caracteristicas.php" class="banner-btn">saber más</a>
       </div>
     </header>
     <!-- seccion aparte -->
@@ -105,7 +105,7 @@
             Provenientes de la agricultura ecológica certificada, libre de
             conservantes y químicos
           </p>
-          <a href="nosotros.html" class="main-btn">Nosotros</a>
+          <a href="nosotros.php" class="main-btn">Nosotros</a>
         </article>
       </div>
     </section>
@@ -120,7 +120,7 @@
             Conoce algunos de nuestros platos preferidos por nuestros clientes.
             Nuestro misión principal es brindarte el mejor sabor y servicio.
           </p>
-          <a href="platos.html" class="main-btn">Ver más</a>
+          <a href="platos.php" class="main-btn">Ver más</a>
         </article>
         <article class="products-inventory clearfix">
           <div class="product">
