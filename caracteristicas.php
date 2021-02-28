@@ -17,7 +17,7 @@
     <header class="header">
       <div class="banner">
         <h3 class="banner-subtitle">Comida naturalmente saludable</h3>
-        <h1 class="banner-title">Nuestroas Características</h1>
+        <h1 class="banner-title">Nuestras Características</h1>
         <a href="index.php" class="banner-btn">Inicio</a>
       </div>
     </header>
