@@ -1,4 +1,3 @@
-    <!-- end of  products -->
     <footer class="footer">
       <div class="section-center">
         <div class="social-icons">
