@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -21,32 +21,32 @@
       </div>
     </header>
     <div class="content-divider"></div>
-    <section class="about">
+    <section class="nosotros">
       <div class="section-center clearfix">
-        <article class="about-img">
-          <div class="about-picture-container">
+        <article class="nosotros-img">
+          <div class="nosotros-picture-container">
             <img
               src="./images/pasta.jpg"
               alt="tea kettle"
-              class="about-picture"
+              class="nosotros-picture"
             />
           </div>
         </article>
-        <article class="about-info">
+        <article class="nosotros-info">
           <div>
             <h3 class="section-subtitle">Nosotros</h3>
             <h2 class="section-title">Mundo Natural</h2>
           </div>
-          <p class="about-text">
+          <p class="nosotros-text">
             Somos un restaurante orgánico, que tiene como principios, un local
             cuya captación de clientes está basada en una oferta realizada con
             productos naturales.
           </p>
-          <p class="about-text">
+          <p class="nosotros-text">
             Provenientes de la agricultura ecológica certificada, libre de
             conservantes y químicos.
           </p>
-          <p class="about-text">
+          <p class="nosotros-text">
             Los restaurantes de comida natural suelen existir para hacer
             beneficios, así como para promocionar un mensaje, que es apoyar los
             beneficios de las dietas de comida cruda o fomentar que la gente

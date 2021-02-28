@@ -201,21 +201,21 @@ a {
     var(--color-primario)
   );
 }
-.skills {
+.caracteristicas {
   background: var(--gris);
 }
-.skill {
+.caracteristica {
   padding: 2.5rem 0;
   text-align: center;
   transition: var(--transicion);
 }
-.skill-icon {
+.caracteristica-icon {
   font-size: 2.5rem;
   margin-bottom: 1.5rem;
   transition: var(--transicion);
   display: inline-block;
 }
-.skill-title {
+.caracteristica-title {
   font-size: 0.9rem;
   font-weight: bold;
   text-transform: uppercase;
@@ -224,29 +224,29 @@ a {
   color: var(--color-primario);
   transition: var(--transicion);
 }
-.skill-text {
+.caracteristica-text {
   line-height: 1.5;
   font-size: 16px;
   max-width: 13rem;
   margin: 0 auto;
 }
-.skill:hover {
+.caracteristica:hover {
   background: var(--color-primario);
 }
-.skill:hover .skill-title {
+.caracteristica:hover .caracteristica-title {
   color: var(--blanco);
 }
-.skill:hover .skill-icon {
+.caracteristica:hover .caracteristica-icon {
   transform: translateY(-5px);
 }
 @media screen and (min-width: 576px) {
-  .skill {
+  .caracteristica {
     float: left;
     width: 50%;
   }
 }
 @media screen and (min-width: 1200px) {
-  .skill {
+  .caracteristica {
     width: 25%;
   }
 }
@@ -256,22 +256,22 @@ a {
   margin: 0 auto;
   max-width: 1170px;
 }
-.about-img,
-.about-info {
+.nosotros-img,
+.nosotros-info {
   padding: 2rem 0;
 }
-.about-picture-container {
+.nosotros-picture-container {
   background: var(--color-primario);
   border: 0.5rem solid var(--color-primario);
   border-radius: 1rem;
   overflow: hidden;
 }
-.about-picture {
+.nosotros-picture {
   width: 100%;
   display: block;
   transition: var(--transicion);
 }
-.about-picture-container:hover .about-picture {
+.nosotros-picture-container:hover .nosotros-picture {
   opacity: 0.5;
   transform: scale(1.2);
 }
@@ -287,7 +287,7 @@ a {
   text-transform: uppercase;
 }
 
-.about-text {
+.nosotros-text {
   margin: 1rem 0;
   max-width: 26rem;
 }
@@ -296,87 +296,87 @@ a {
   .section-center {
     width: 95vw;
   }
-  .about-img,
-  .about-info {
+  .nosotros-img,
+  .nosotros-info {
     float: left;
     width: 50%;
     padding: 2rem;
   }
 }
 
-.products {
+.platos {
   background: var(--oscuro);
 }
 
-.products-info,
-.products-inventory {
+.platos-info,
+.platos-inventory {
   padding: 2rem 0;
 }
 
-.product-text {
+.plato-text {
   color: var(--blanco);
   margin: 1rem 0;
   max-width: 26rem;
 }
-.product {
+.plato {
   padding: 2rem 0;
 }
-.product-img {
+.plato-img {
   width: 100%;
   display: block;
   border-radius: 0.4rem;
   margin-bottom: 2rem;
 }
-.product-title {
+.plato-title {
   color: var(--blanco);
   text-transform: uppercase;
   letter-spacing: var(--spaciado-letras);
   margin-bottom: 1rem;
 }
-.product-price {
+.plato-price {
   color: var(--color-primario);
   letter-spacing: var(--spaciado-letras);
   font-family: var(--font-family);
 }
 
 @media screen and (min-width: 768px) {
-  .products-info {
+  .platos-info {
     padding: 2rem 1rem;
   }
-  .product {
+  .plato {
     float: left;
     width: 50%;
     padding: 2rem 1rem;
   }
 }
 @media screen and (min-width: 992px) {
-  .product {
+  .plato {
     width: 33.3%;
   }
 }
 
 @media screen and (min-width: 1200px) {
-  .products-info {
+  .platos-info {
     float: left;
     width: 30%;
   }
-  .products-inventory {
+  .platos-inventory {
     float: left;
     width: 70%;
   }
-  .product {
+  .plato {
     padding: 1.5rem 1rem 0 1rem;
     width: 33.3%;
   }
 }
-.contact {
+.contacto {
   padding-top: 2rem;
 }
 
-.contact-item {
+.contacto-item {
   margin-bottom: 3rem;
 }
-.contact-title {
+.contacto-title {
   color: var(--color-primario);
   font-family: var(--font-family);
   text-transform: uppercase;
@@ -384,7 +384,7 @@ a {
   font-size: 1.6rem;
   margin-bottom: 0.5rem;
 }
-.contact-text {
+.contacto-text {
   text-transform: uppercase;
 }
 .form-control {
@@ -404,13 +404,13 @@ a {
   letter-spacing: var(--spaciado-letras);
 }
 @media screen and (min-width: 992px) {
-  .contact-info,
-  .contact-form {
+  .contacto-info,
+  .contacto-form {
     float: left;
     width: 50%;
     padding: 0 1rem;
   }
-  .contact-info {
+  .contacto-info {
     padding-top: 5rem;
   }
 }

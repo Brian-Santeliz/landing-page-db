@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -21,73 +21,73 @@
       </div>
     </header>
     <div class="content-divider"></div>
-    <section class="products">
+    <section class="platos">
       <div class="section-center clearfix">
-        <article class="products-info">
+        <article class="platos-info">
           <div>
             <h3 class="section-subtitle">Platos</h3>
             <h2 class="section-title text-white">Algunos de nuestros platos</h2>
           </div>
-          <p class="product-text">
+          <p class="plato-text">
             Conoce algunos de nuestros platos preferidos por nuestros clientes.
             Nuestro misión principal es brindarte el mejor sabor y servicio.
           </p>
           <a href="nosotros.php" class="main-btn">Nosotros</a>
         </article>
-        <article class="products-inventory clearfix">
-          <div class="product">
+        <article class="platos-inventory clearfix">
+          <div class="plato">
             <img
               src="./images/postre1.jpg"
-              alt="single product"
-              class="product-img"
+              alt="plato"
+              class="plato-img"
             />
-            <h3 class="product-title">Bebidas & Vinos</h3>
-            <h3 class="product-price">$29.00</h3>
+            <h3 class="plato-title">Bebidas & Vinos</h3>
+            <h3 class="plato-price">$29.00</h3>
           </div>
-          <div class="product">
+          <div class="plato">
             <img
               src="./images/hamburger.jpg"
-              alt="single product"
-              class="product-img"
+              alt="plato"
+              class="plato-img"
             />
-            <h3 class="product-title">Hamburguesas</h3>
-            <h3 class="product-price">$12.99</h3>
+            <h3 class="plato-title">Hamburguesas</h3>
+            <h3 class="plato-price">$12.99</h3>
           </div>
-          <div class="product">
+          <div class="plato">
             <img
               src="./images/cupcakes.jpg"
-              alt="single product"
-              class="product-img"
+              alt="plato"
+              class="plato-img"
             />
-            <h3 class="product-title">Cupcakes</h3>
-            <h3 class="product-price">$6.00</h3>
+            <h3 class="plato-title">Cupcakes</h3>
+            <h3 class="plato-price">$6.00</h3>
           </div>
-          <div class="product">
+          <div class="plato">
             <img
               src="./images/asparegues.jpg"
-              alt="single product"
-              class="product-img"
+              alt="plato"
+              class="plato-img"
             />
-            <h3 class="product-title">Espárragos & pescado</h3>
-            <h3 class="product-price">$15.00</h3>
+            <h3 class="plato-title">Espárragos & pescado</h3>
+            <h3 class="plato-price">$15.00</h3>
           </div>
-          <div class="product">
+          <div class="plato">
             <img
               src="./images/manzanilla.jpeg"
-              alt="single product"
-              class="product-img"
+              alt="plato"
+              class="plato-img"
             />
-            <h3 class="product-title">Té de manzanilla</h3>
-            <h3 class="product-price">$3.00</h3>
+            <h3 class="plato-title">Té de manzanilla</h3>
+            <h3 class="plato-price">$3.00</h3>
           </div>
-          <div class="product">
+          <div class="plato">
             <img
               src="./images/girasol.jpeg"
-              alt="single product"
-              class="product-img"
+              alt="plato"
+              class="plato-img"
             />
-            <h3 class="product-title">Almendras & Girasol</h3>
-            <h3 class="product-price">$5.00</h3>
+            <h3 class="plato-title">Almendras & Girasol</h3>
+            <h3 class="plato-price">$5.00</h3>
           </div>
         </article>
       </div>
