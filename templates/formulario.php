@@ -28,23 +28,26 @@
       </div>
     </article>
     <article class="contact-form">
-      <form action="ruta.php" method="POST" class="form-group">
+      <form id="formulario" class="form-group">
         <input
           type="text"
           name="nombre"
           placeholder="nombre"
           class="form-control"
+          required
         />
         <input
           type="email"
           name="email"
           placeholder="email"
           class="form-control"
+          required
         />
         <textarea
           name="mensaje"
           placeholder="mensaje"
           class="form-control"
+          required
           rows="5"
         ></textarea>
         <button class="main-btn">Enviar</button>

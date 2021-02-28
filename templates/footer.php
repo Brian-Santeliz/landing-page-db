@@ -18,6 +18,7 @@
         </p>
       </div>
     </footer>
-    <script src="app.js"></script>
+    <script src="./js/app.js"></script>
+    <script src="./js/ajax.js"></script>
   </body>
 </html>
