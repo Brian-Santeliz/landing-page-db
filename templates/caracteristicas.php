@@ -1,5 +1,5 @@
 <div class="content-divider"></div>
-<section class="caracteristicas clearfix">
+<section class="caracteristicas limpiador">
   <article class="caracteristica">
     <span class="caracteristica-icon">
       <i class="fas fa-heart"></i>

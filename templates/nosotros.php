@@ -1,5 +1,5 @@
 <section class="nosotros">
-  <div class="section-center clearfix">
+  <div class="seccion-center limpiador">
     <article class="nosotros-img">
       <div class="nosotros-picture-container">
         <img
@@ -11,8 +11,8 @@
     </article>
     <article class="nosotros-info">
       <div>
-        <h3 class="section-subtitle">Nosotros</h3>
-        <h2 class="section-title">Mundo Natural</h2>
+        <h3 class="seccion-subtitle">Nosotros</h3>
+        <h2 class="seccion-title">Mundo Natural</h2>
       </div>
       <p class="nosotros-text">
         Somos un restaurante orgánico, que tiene como principios, un local cuya

@@ -1,9 +1,9 @@
 <section class="platos">
-  <div class="section-center clearfix">
+  <div class="seccion-center limpiador">
     <article class="platos-info">
       <div>
-        <h3 class="section-subtitle">Platos</h3>
-        <h2 class="section-title text-white">Algunos de nuestros platos</h2>
+        <h3 class="seccion-subtitle">Platos</h3>
+        <h2 class="seccion-title text-white">Algunos de nuestros platos</h2>
       </div>
       <p class="plato-text">
         Conoce algunos de nuestros platos preferidos por nuestros clientes.
@@ -11,7 +11,7 @@
       </p>
       <a href="platos.php" class="main-btn">Ver más</a>
     </article>
-    <article class="platos-inventory clearfix">
+    <article class="platos-inventory limpiador">
       <div class="plato">
         <img src="./images/bebidas.jpg" alt="platoo" class="plato-img" />
         <h3 class="plato-title">Bebidas & Vinos</h3>

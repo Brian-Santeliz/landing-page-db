@@ -1,5 +1,5 @@
     <footer class="footer">
-      <div class="section-center">
+      <div class="seccion-center">
         <div class="social-icons">
           <a href="#" class="social-icon">
             <i class="fab fa-facebook"></i>

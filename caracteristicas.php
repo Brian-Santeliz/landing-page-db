@@ -7,6 +7,7 @@
     <title>Mundo Natural || Características</title>
     <link rel="stylesheet" href="./fontawesome-free-5.7.2-web/css/all.css" />
     <link rel="stylesheet" href="./css/styles.css" />
+    <script src="./js/jquery-3.5.1.min.js"></script>
   </head>
 
   <body>

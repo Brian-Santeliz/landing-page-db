@@ -1,5 +1,5 @@
 <section class="contacto">
-  <div class="section-center clearfix">
+  <div class="seccion-center limpiador">
     <article class="contacto-info">
       <div class="contacto-item">
         <h3 class="contacto-title">

@@ -7,6 +7,7 @@
     <title>Mundo Natural || Platos</title>
     <link rel="stylesheet" href="./fontawesome-free-5.7.2-web/css/all.css" />
     <link rel="stylesheet" href="./css/styles.css" />
+    <script src="./js/jquery-3.5.1.min.js"></script>
   </head>
 
   <body>
@@ -22,11 +23,11 @@
     </header>
     <div class="content-divider"></div>
     <section class="platos">
-      <div class="section-center clearfix">
+      <div class="seccion-center limpiador">
         <article class="platos-info">
           <div>
-            <h3 class="section-subtitle">Platos</h3>
-            <h2 class="section-title text-white">Algunos de nuestros platos</h2>
+            <h3 class="seccion-subtitle">Platos</h3>
+            <h2 class="seccion-title text-white">Algunos de nuestros platos</h2>
           </div>
           <p class="plato-text">
             Conoce algunos de nuestros platos preferidos por nuestros clientes.
@@ -34,7 +35,7 @@
           </p>
           <a href="nosotros.php" class="main-btn">Nosotros</a>
         </article>
-        <article class="platos-inventory clearfix">
+        <article class="platos-inventory limpiador">
           <div class="plato">
             <img
               src="./images/postre1.jpg"

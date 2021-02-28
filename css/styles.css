@@ -21,8 +21,8 @@ body {
   color: var(--oscuro);
   line-height: 1.5;
 }
-.clearfix::after,
-.clearfix::before {
+.limpiador::after,
+.limpiador::before {
   content: "";
   clear: both;
   display: table;
@@ -250,7 +250,7 @@ a {
     width: 25%;
   }
 }
-.section-center {
+.seccion-center {
   padding: 4rem 0;
   width: 80vw;
   margin: 0 auto;
@@ -275,14 +275,14 @@ a {
   opacity: 0.5;
   transform: scale(1.2);
 }
-.section-subtitle {
+.seccion-subtitle {
   font-size: 2rem;
   font-family: var(--font-family);
   letter-spacing: var(--spaciado-letras);
   text-transform: capitalize;
   color: var(--color-primario);
 }
-.section-title {
+.seccion-title {
   font-size: 2rem;
   text-transform: uppercase;
 }
@@ -293,7 +293,7 @@ a {
 }
 
 @media screen and (min-width: 992px) {
-  .section-center {
+  .seccion-center {
     width: 95vw;
   }
   .nosotros-img,
