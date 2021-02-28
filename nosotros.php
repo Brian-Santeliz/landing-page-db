@@ -40,7 +40,7 @@
           <p class="about-text">
             Somos un restaurante orgánico, que tiene como principios, un local
             cuya captación de clientes está basada en una oferta realizada con
-            productos naturales
+            productos naturales.
           </p>
           <p class="about-text">
             Provenientes de la agricultura ecológica certificada, libre de

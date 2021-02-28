@@ -68,7 +68,7 @@
               alt="single product"
               class="product-img"
             />
-            <h3 class="product-title">Espárragos pescado</h3>
+            <h3 class="product-title">Espárragos & pescado</h3>
             <h3 class="product-price">$15.00</h3>
           </div>
           <div class="product">
