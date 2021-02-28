@@ -2,7 +2,7 @@
     $host = 'localhost';
     $dbname = 'mundo_natural';
     $username = 'root';
-    $password = '300900';
+    $password = '';
 
     $conn =  mysqli_connect($host, $username, $password, $dbname);
     $nombre = $_POST["nombre"];
